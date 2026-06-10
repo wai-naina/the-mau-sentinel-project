@@ -37,7 +37,7 @@ The pipeline is modular — each stage is a single-purpose function, and the reg
 | Mean annual loss rate | 0.24 %/yr |
 | Analysis period | 2019–2024 (5 years) |
 
-![Forest change map](figures/change_map.png)
+![Forest change map](https://earthengine.googleapis.com/v1/projects/mau-sentinel/thumbnails/9827be190a7a6187c01b98d7094e7a53-891b4aaf5de066514136a73d81f878c3:getPixels)
 
 *Forest loss (2019–2024) within the Eastern Mau Forest Reserve. Retained forest in green, detected loss in red, over a true-colour Sentinel-2 backdrop.*
 
